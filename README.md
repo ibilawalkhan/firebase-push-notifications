@@ -2,7 +2,7 @@ Step 1: Clone Repository
 Clone the repository from the provided link.
 
 Step 2: Install Dependencies
-npm install
+npm install and install nodemon separately
 
 Step 3: Create .env File
 Create a file named .env at the root of the project with the following content:
